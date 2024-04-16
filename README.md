@@ -3,4 +3,4 @@ mccluckin
 
 separate repository, preview of the website:
 
-![alt text](http://restaurant/mc-screen2.png)
+![alt text](https://restaurant/mc-assets/mc-screen2.png)
